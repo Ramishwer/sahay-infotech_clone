@@ -141,7 +141,7 @@ const CaseStudiesPage: React.FC = () => {
           <h4 className="text-indigo-600 font-bold uppercase tracking-widest text-sm mb-4">Success Stories</h4>
           <h1 className="text-5xl font-extrabold text-slate-900 mb-6">In-depth Industry Solutions</h1>
           <p className="text-xl text-slate-600">
-            NexusSoft presents the following case studies that exemplify the type of solutions and services we are providing across our customer base.
+            Sahay Infotech presents the following case studies that exemplify the type of solutions and services we are providing across our customer base.
           </p>
         </div>
 

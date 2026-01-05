@@ -24,7 +24,7 @@ const industryData = [
   {
     name: 'Taxi Services',
     icon: '🚕',
-    image: 'https://images.unsplash.com/photo-1556122071-e404be7457cd?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1593950315186-76a92975b60c?auto=format&fit=crop&w=800&q=80',
     desc: 'Our solutions are tailored to improve ride-hailing services, offering reliability to both passengers and drivers alike. We connect users through intuitive mobile applications that feature real-time location services and secure payment gateways. Sophisticated dispatch algorithms ensure rapid response times and system stability even during peak demand periods. Our software provides comprehensive admin dashboards for fleet oversight, driver performance monitoring, and earnings tracking. We focus on creating a frictionless experience that prioritizes safety, speed, and customer satisfaction on every journey.'
   },
   {
@@ -42,7 +42,7 @@ const industryData = [
   {
     name: 'Pharmaceuticals',
     icon: '🧪',
-    image: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=800&q=80',
+    image: 'https://images.unsplash.com/photo-1579165466541-74e2beeac73a?auto=format&fit=crop&w=800&q=80',
     desc: 'We offer tools for companies to manage research data and regulatory compliance, aiding in the development of medications. Our secure environments for research collaboration adhere to strict international data privacy and security standards like GxP. We help companies track the lifecycle of medications from laboratory development to final distribution to various healthcare providers. Automated reporting and data visualization tools assist in complex decision-making during clinical trials and market analysis. Our mission is to provide the technical foundation for safer, faster, and more efficient pharmaceutical innovation globally.'
   },
   {

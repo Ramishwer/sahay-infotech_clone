@@ -52,7 +52,7 @@ const BlogPage: React.FC = () => {
     <div className="pt-32 pb-24 bg-white">
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto text-center mb-16">
-          <h1 className="text-5xl font-extrabold text-slate-900 mb-6">Nexus Insights</h1>
+          <h1 className="text-5xl font-extrabold text-slate-900 mb-6">Sahay Insights</h1>
           <p className="text-xl text-slate-600">Deep dives into the technology and strategy driving the future.</p>
         </div>
 
